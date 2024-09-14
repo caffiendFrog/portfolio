@@ -195,7 +195,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
     <td align="center">SIADS 673</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20673.pdf">Cloud Computing</a></td>
     <td align="center"><em>tbd</em></td>
-    <td></td>
+    <td>Introduces cloud computing, covering infrastructure, networks, resource management, and large dataset workflows, enabling students to set up cloud-based data science workflows.</td>
   </tr>
   <tr><td colspan=4></td></tr>
   <tr>
