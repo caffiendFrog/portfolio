@@ -96,7 +96,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
     <td>Covers basic concepts and tasks of data mining, focusing on pattern extraction and similarity measures.</td>
   </tr>
   <tr>
-    <td align="center">SIADS 593</td>
+    <td align="center"><a href="SIADS-593/">SIADS 593</a></td>
     <td><a href="https://www.si.umich.edu/sites/default/files/593%20_0.pdf">Milestone I</a></td>
     <td align="center">A</td>
     <td>Engages students in a portfolio project covering data analysis, manipulation, and visualization.</td>
