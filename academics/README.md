@@ -3,6 +3,7 @@
 This page showcases my academic performance in the Master of Applied Data Science (MADS) program at the University of Michigan - Ann Arbor.
 > [The MADS program resides at the intersection of computation, theory and application, ensuring that students are putting their data science learnings into practice and are being prepared for data science careers in any industry.](https://www.si.umich.edu/programs/master-applied-data-science/curriculum)
 ## Academic Performance Summary
+- *Scholarship*: MADS Scholarship
 - *Cumulative GPA*: 3.945
 - *Total Credits Completed*: 22.00
 - *Program Progress*: 22 out of 34 required credits completed
