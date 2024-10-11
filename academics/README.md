@@ -183,7 +183,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   <tr>
     <td align="center">SIADS 652</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20652.pdf">Network Analysis</a></td>
-    <td align="center"><em>A</em></td>
+    <td align="center">A</td>
     <td>Introduces basic network analysis techniques, emphasizing programming skills for real network data analysis.</td>
   </tr>
   <tr>
@@ -195,7 +195,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   <tr>
     <td align="center">SIADS 673</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20673.pdf">Cloud Computing</a></td>
-    <td align="center"><em>A</em></td>
+    <td align="center">A</td>
     <td>Introduces cloud computing, covering infrastructure, networks, resource management, and large dataset workflows, enabling students to set up cloud-based data science workflows.</td>
   </tr>
   <tr><td colspan=4></td></tr>
