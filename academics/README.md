@@ -171,7 +171,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   <tr>
     <td align="center">SIADS 601</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20601.pdf">Qualitative Inquiry for Data Scientists</a></td>
-    <td align="center"><em>tbd</em></td>
+    <td align="center">A</td>
     <td>Overview of qualitative research skills for data scientists, including interview protocols and analysis.</td>
   </tr>
   <tr>
