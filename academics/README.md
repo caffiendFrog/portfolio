@@ -3,9 +3,10 @@
 This page showcases my academic performance in the Master of Applied Data Science (MADS) program at the University of Michigan - Ann Arbor.
 > [The MADS program resides at the intersection of computation, theory and application, ensuring that students are putting their data science learnings into practice and are being prepared for data science careers in any industry.](https://www.si.umich.edu/programs/master-applied-data-science/curriculum)
 ## Academic Performance Summary
-- *Cumulative GPA*: 3.945
-- *Total Credits Completed*: 22.00
-- *Program Progress*: 22 out of 34 required credits completed
+- *Scholarship*: MADS Scholarship
+- *Cumulative GPA*: 3.952
+- *Total Credits Completed*: 25.00
+- *Program Progress*: 25 out of 34 required credits completed
 ## Course Performance
 <table>
   <tr>
@@ -96,7 +97,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
     <td>Covers basic concepts and tasks of data mining, focusing on pattern extraction and similarity measures.</td>
   </tr>
   <tr>
-    <td align="center">SIADS 593</td>
+    <td align="center"><a href="SIADS-593/">SIADS 593</a></td>
     <td><a href="https://www.si.umich.edu/sites/default/files/593%20_0.pdf">Milestone I</a></td>
     <td align="center">A</td>
     <td>Engages students in a portfolio project covering data analysis, manipulation, and visualization.</td>
@@ -170,7 +171,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   <tr>
     <td align="center">SIADS 601</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20601.pdf">Qualitative Inquiry for Data Scientists</a></td>
-    <td align="center"><em>tbd</em></td>
+    <td align="center">A</td>
     <td>Overview of qualitative research skills for data scientists, including interview protocols and analysis.</td>
   </tr>
   <tr>
@@ -182,7 +183,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   <tr>
     <td align="center">SIADS 652</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20652.pdf">Network Analysis</a></td>
-    <td align="center"><em>tbd</em></td>
+    <td align="center">A</td>
     <td>Introduces basic network analysis techniques, emphasizing programming skills for real network data analysis.</td>
   </tr>
   <tr>
@@ -194,7 +195,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   <tr>
     <td align="center">SIADS 673</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20673.pdf">Cloud Computing</a></td>
-    <td align="center"><em>tbd</em></td>
+    <td align="center">A</td>
     <td>Introduces cloud computing, covering infrastructure, networks, resource management, and large dataset workflows, enabling students to set up cloud-based data science workflows.</td>
   </tr>
   <tr><td colspan=4></td></tr>
