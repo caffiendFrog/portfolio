@@ -206,7 +206,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
     <td align="center">SIADS 647</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20685.pdf">Deep Learning II</a></td>
     <td align="center"><em>tbd</em></td>
-    <td>Covers advanced topics in nueral network and develops understanding of real-world data problems that are amenable to deep learning models.</td>
+    <td>Covers advanced topics in neural network and develops understanding of real-world data problems that are amenable to deep learning models.</td>
   </tr>
   <tr>
     <td align="center">SIADS 681</td>
