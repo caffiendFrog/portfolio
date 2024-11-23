@@ -169,7 +169,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
     <th scope="colgroup" colspan=4 align="left">Fall 2024 <em>(In progress)</em></th>
   </tr>
   <tr>
-    <td align="center">SIADS 601</td>
+    <td align="center"><a href="SIADS-601/">SIADS 601</a></td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20601.pdf">Qualitative Inquiry for Data Scientists</a></td>
     <td align="center">A</td>
     <td>Overview of qualitative research skills for data scientists, including interview protocols and analysis.</td>
@@ -177,7 +177,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   <tr>
     <td align="center">SIADS 642</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20601.pdf">Deep Learning I</a></td>
-    <td align="center"><em>tbd</em></td>
+    <td align="center">A</td>
     <td>Introduces basics of neural networks and deep learning, focusing on real-world applications.</td>
   </tr>
   <tr>
@@ -203,6 +203,12 @@ This page showcases my academic performance in the Master of Applied Data Scienc
     <th scope="colgroup" colspan=4 align="left">Winter 2025 <em>(Planned)</em></th>
   </tr>
   <tr>
+    <td align="center">SIADS 647</td>
+    <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20685.pdf">Deep Learning II</a></td>
+    <td align="center"><em>tbd</em></td>
+    <td>Covers advanced topics in nueral network and develops understanding of real-world data problems that are amenable to deep learning models.</td>
+  </tr>
+  <tr>
     <td align="center">SIADS 681</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20681.pdf">Health Analytics</a></td>
     <td align="center"><em>tbd</em></td>
@@ -217,12 +223,6 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   <tr><td colspan=4></td></tr>
   <tr>
     <th scope="colgroup" colspan=4 align="left">Spring/Summer 2025 <em>(Planned)</em></th>
-  </tr>
-  <tr>
-    <td align="center">SIADS 685</td>
-    <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20685.pdf">Search and Recommender Systems</a></td>
-    <td align="center"><em>tbd</em></td>
-    <td>Focuses on information retrieval concepts, methods, and applications, including search, recommendations, and tools for indexing and ranking.</td>
   </tr>
   <tr>
     <td align="center">SIADS 699</td>
