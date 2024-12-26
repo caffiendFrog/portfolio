@@ -4,9 +4,9 @@ This page showcases my academic performance in the Master of Applied Data Scienc
 > [The MADS program resides at the intersection of computation, theory and application, ensuring that students are putting their data science learnings into practice and are being prepared for data science careers in any industry.](https://www.si.umich.edu/programs/master-applied-data-science/curriculum)
 ## Academic Performance Summary
 - *Scholarship*: MADS Scholarship
-- *Cumulative GPA*: 3.942
-- *Total Credits Completed*: 26.00
-- *Program Progress*: 26 out of 34 required credits completed
+- *Cumulative GPA*: 3.944
+- *Total Credits Completed*: 27.00
+- *Program Progress*: 27 out of 34 required credits completed
 ## Course Performance
 <table>
   <tr>
@@ -189,7 +189,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   <tr>
     <td align="center">SIADS 655</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20655.pdf">Applied Natural Language Processing</a></td>
-    <td align="center"><em>tbd</em></td>
+    <td align="center">A+</td>
     <td>Introduces techniques for working with language data and turning unstructured text into structured information.</td>
   </tr>
   <tr>
