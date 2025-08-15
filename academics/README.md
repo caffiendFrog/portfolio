@@ -4,9 +4,8 @@ This page showcases my academic performance in the Master of Applied Data Scienc
 > [The MADS program resides at the intersection of computation, theory and application, ensuring that students are putting their data science learnings into practice and are being prepared for data science careers in any industry.](https://www.si.umich.edu/programs/master-applied-data-science/curriculum)
 ## Academic Performance Summary
 - *Scholarship*: MADS Scholarship
-- *Cumulative GPA*: 3.944
-- *Total Credits Completed*: 27.00
-- *Program Progress*: 27 out of 34 required credits completed
+- *Cumulative GPA*: 3.93
+- *Program Progress*: 30 out of 34 required credits completed
 ## Course Performance
 <table>
   <tr>
@@ -166,7 +165,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   </tr>
   <tr><td colspan=4></td></tr>
   <tr>
-    <th scope="colgroup" colspan=4 align="left">Fall 2024 <em>(In progress)</em></th>
+    <th scope="colgroup" colspan=4 align="left">Fall 2024</th>
   </tr>
   <tr>
     <td align="center"><a href="SIADS-601/">SIADS 601</a></td>
@@ -200,34 +199,38 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   </tr>
   <tr><td colspan=4></td></tr>
   <tr>
-    <th scope="colgroup" colspan=4 align="left">Winter 2025 <em>(Planned)</em></th>
+    <th scope="colgroup" colspan=4 align="left">Winter 2025</th>
   </tr>
   <tr>
-    <td align="center">SIADS 647</td>
-    <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20685.pdf">Deep Learning II</a></td>
-    <td align="center"><em>tbd</em></td>
-    <td>Covers advanced topics in neural network and develops understanding of real-world data problems that are amenable to deep learning models.</td>
-  </tr>
   <tr>
-    <td align="center">SIADS 681</td>
-    <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20681.pdf">Health Analytics</a></td>
-    <td align="center"><em>tbd</em></td>
-    <td>Teaches health analytics through case studies, focusing on data analytics in healthcare, mobile health, electronic health records, public health data, and expertise in stress, physical activity, pharmaceuticals, and lung disease.</td>
+    <td align="center"><a href="SIADS-688/">SIADS 688</a></td>
+    <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20688.pdf">Data Science for Social Good</a></td>
+    <td align="center">A+</td>
+    <td>Applications of causal inference techniques to analyze social motivations and incentives.</td>
   </tr>
   <tr>
     <td align="center">SIADS 696</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20696.pdf">Milestone II</a></td>
-    <td align="center"><em>tbd</em></td>
+    <td align="center">A-</td>
     <td>Key assessment point for fundamental data analytics skills applied to realistic data science problems.</td>   
   </tr>
   <tr><td colspan=4></td></tr>
   <tr>
-    <th scope="colgroup" colspan=4 align="left">Spring/Summer 2025 <em>(Planned)</em></th>
+    <th scope="colgroup" colspan=4 align="left">Spring/Summer 2025 <em>(In progress)</em></th>
   </tr>
   <tr>
-    <td align="center">SIADS 699</td>
+    <td align="center"><a href="SIADS-699/">SIADS 699</a></td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20699.pdf">Capstone</a></td>
     <td align="center"><em>tbd</em></td>
     <td>Project-based course where students build end-to-end data science projects in their domains of interest.</td>
+  </tr>
+  <tr>
+  <th scope="colgroup" colspan=4 align="left">Fall 2025 <em>(Planned)</em></th>
+  </tr>
+  <tr>
+    <td align="center">SIADS 685</td>
+    <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20685.pdf">Search and Recommender Systems</a></td>
+    <td align="center"><em>tbd</em></td>
+    <td>Applications of information retrieval with a focus on search and recommendations.</td>
   </tr>
 </table>
