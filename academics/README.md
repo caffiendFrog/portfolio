@@ -5,7 +5,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
 ## Academic Performance Summary
 - *Scholarship*: MADS Scholarship
 - *Cumulative GPA*: 3.93
-- *Program Progress*: 30 out of 34 required credits completed
+- *Program Progress*: 34 out of 34 required credits completed
 ## Course Performance
 <table>
   <tr>
@@ -221,7 +221,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   <tr>
     <td align="center"><a href="SIADS-699/">SIADS 699</a></td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20699.pdf">Capstone</a></td>
-    <td align="center"><em>tbd</em></td>
+    <td align="center">A</td>
     <td>Project-based course where students build end-to-end data science projects in their domains of interest.</td>
   </tr>
   <tr>
@@ -230,7 +230,7 @@ This page showcases my academic performance in the Master of Applied Data Scienc
   <tr>
     <td align="center">SIADS 685</td>
     <td><a href="https://www.si.umich.edu/sites/default/files/SIADS%20685.pdf">Search and Recommender Systems</a></td>
-    <td align="center"><em>tbd</em></td>
+    <td align="center">A+</td>
     <td>Applications of information retrieval with a focus on search and recommendations.</td>
   </tr>
 </table>
